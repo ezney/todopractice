@@ -1,8 +1,0 @@
-"# Ignore Visual Studio temporary files, build results, and directories" 
-"**/obj/" 
-"**/bin/" 
-"**/.vs/" 
-"**/*.user" 
-"**/*.suo" 
-"**/*.userosscache" 
-echo "**/*.sln.docstates" 
